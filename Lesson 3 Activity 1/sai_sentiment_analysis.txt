@@ -1,0 +1,7 @@
+Sentiment Analysis Report for Agent sai
+Positive Sentiments: 0
+Negative Sentiments: 1
+Neutral Sentiments: 0
+
+Conversation History:
+1. sad
