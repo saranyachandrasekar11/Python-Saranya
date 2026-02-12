@@ -1,0 +1,9 @@
+Sentiment Analysis Report for Agent SS
+Positive Sentiments: 1
+Negative Sentiments: 1
+Neutral Sentiments: 1
+
+Conversation History:
+1. fun is important
+2. i am sad
+3. I am not okay
